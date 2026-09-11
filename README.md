@@ -47,18 +47,16 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1]<img width="1920" height="1080" alt="a" src="https://github.com/user-attachments/assets/ae6ceae3-afab-42f7-a010-c867134b3d1d" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2]<img width="1920" height="1080" alt="b" src="https://github.com/user-attachments/assets/de806e7e-0924-49b2-ac8a-01edce49e800" />
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+
+![Screenshot3]<img width="1920" height="1080" alt="c" src="https://github.com/user-attachments/assets/89edaafb-42b1-4906-b07c-045de0be5901" />
+
+
+
 
 
 ### Project Demo
