@@ -2,7 +2,7 @@
 
 
 
-# [Project Name] 🎯
+# [BLINK CAM] 🎯
 
 
 ## Basic Details
@@ -14,65 +14,38 @@
 - Member 2: [Abhinav M] - [DUXFORD COLLEGE FOR ADVANCED STUDIES]
 
 ### Project Description
-[2-3 lines about what your project does]
-
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
-
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[Blink Cam is a fun web application that uses the device camera and eye-blink detection to count 10 blinks automatically.
+After the 10th blink, a 5-second countdown starts and the camera captures a photo, which is displayed temporarily without any download or save option.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Languages used
+   -HTML
+   -CSS
+   -JavaScript]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [Libraries used-MediaPipe Tasks Vision (@mediapipe/tasks-vision) — face/eye landmark detection Google Fonts — Archivo Black, Rubik Glitch, Space Mono]
 
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
+- [Tools used-
+   Web Camera API (getUserMedia)
+   HTML5 Canvas API
+   Web Audio API
+   requestAnimationFrame
+   JavaScript ES Modules
+   CSS animations / effects ]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![Screenshot1]<img width="1920" height="1080" alt="a" src="https://github.com/user-attachments/assets/ae6ceae3-afab-42f7-a010-c867134b3d1d" />
 
 
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+![Screenshot2]<img width="1920" height="1080" alt="b" src="https://github.com/user-attachments/assets/de806e7e-0924-49b2-ac8a-01edce49e800" />
 
-# Additional Demos
-[Add any extra demo materials/links]
 
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+![Screenshot3]<img width="1920" height="1080" alt="c" src="https://github.com/user-attachments/assets/89edaafb-42b1-4906-b07c-045de0be5901" />
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
